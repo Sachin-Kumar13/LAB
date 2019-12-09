@@ -1,0 +1,2 @@
+Write a program which create a dictionary using function in which keys are numbers between 1 and N (both included) and the  value are squares of keys.
+Print each item in seprate lines .The function name is SQUARE() which accepts a number and return final dictionary
